@@ -5,9 +5,8 @@
 </p>
 
 - 👋 Hi, I’m @fakhrimn25
-- 👀 I’m interested in ...
+- 👀 I am a beginner who is interested in studying in the field of Data Science
 - 🌱 I’m currently learning everything 🤣
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ???
 
 ## 🔍 You Can Find Me at
