@@ -4,6 +4,12 @@
  I am a bachelor graduate from mathematics major with specialization in Data Science, I really like Big Data, Artificial Intelligence, Machine Learning and Natural Language Processing. I have been in several training programs or boot camp that focus on the field of Data Science. This experience greatly influenced my interest and skills in this data science field.
 </p>
 
+- 👋 Hi, I’m @fakhrimn25
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...\
+
 ## 🔍 You Can Find Me at
 
 <p>
@@ -16,11 +22,7 @@
 </p>
 
 
-- 👋 Hi, I’m @fakhrimn25
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 fakhrimn25/fakhrimn25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
