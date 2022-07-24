@@ -1,4 +1,4 @@
-# Hi there, I'm John
+# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">, I'm John
 
 <p align="justify">
  I am a bachelor graduate from mathematics major with specialization in Data Science, I really like Big Data, Artificial Intelligence, Machine Learning and Natural Language Processing. I have been in several training programs or boot camp that focus on the field of Data Science. This experience greatly influenced my interest and skills in this data science field.
